@@ -1,0 +1,13 @@
+{
+  "name": "root",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "docs"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
